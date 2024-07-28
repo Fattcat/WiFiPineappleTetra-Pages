@@ -7,7 +7,7 @@ require_once('helper.php');
 <html lang="en" dir="ltr">
     <head>
         <meta charset="utf-8">
-        <title>Router Login</title>
+        <title>TP-Link Router Login</title>
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
         <link rel="stylesheet" href="assets/css/custom.css">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
@@ -16,10 +16,6 @@ require_once('helper.php');
         <div id="login-container">
             <form method="POST" action="index.php" id="login-form">
                 <h1>Login</h1>
-                <div class="form-group">
-                    <label for="email">Email or Phone</label>
-                    <input type="text" name="email" id="email" class="form-control" required>
-                </div>
                 <div class="form-group">
                     <label for="password">Password</label>
                     <input type="password" name="password" id="password" class="form-control" required>
