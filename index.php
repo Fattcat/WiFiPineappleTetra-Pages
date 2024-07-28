@@ -7,7 +7,7 @@ require_once('helper.php');
 <html lang="en" dir="ltr">
     <head>
         <meta charset="utf-8">
-        <title>TP-Link Router Login</title>
+        <title>Router Login</title>
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
         <link rel="stylesheet" href="assets/css/custom.css">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
